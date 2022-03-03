@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flowers</string>
+
+    //Headings
+    <string name="heading_one">Sube Fotos</string>
+    <string name="heading_two">Comparte</string>
+    <string name="heading_three">Inspirate</string>
+
+
+    //Description
+    <string name="desc_one">Sube tus fotos y deja que todo el mundo las vea</string>
+    <string name="desc_two">Comparte las fotos que mas te gusten con tus amigos y familiares</string>
+    <string name="desc_three">Consigue inspiracion con mas de 3 Millones de imagenes</string>
+
+</resources>
